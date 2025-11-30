@@ -1,4 +1,4 @@
-# Grok-1
+1905a2fb0b61a37b991eefbd5cb09914bc8ca1d1# Grok-1
 
 This repository contains JAX example code for loading and running the Grok-1 open-weights model.
 
